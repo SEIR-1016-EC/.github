@@ -1,6 +1,6 @@
 ![General Assembly Logo](https://camo.GitHubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)
 
-<h1> SEIR - Software Engineering Bootcamp </h1>
+<h1> SEBR - Software Engineering Bootcamp </h1>
 
 <h2>  Cohort: 10.16.23 - 1.22.24 </h2> 
 
