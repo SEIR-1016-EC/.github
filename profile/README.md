@@ -18,49 +18,62 @@
 <td>
 
 * [ 🖥️ Class Zoom Link](https://generalassembly.zoom.us/j/97984648850?pwd=NEhWNDU4VjFHdUJZREc5anBBaFdNQT09)<br>
-* [ 🛜 *Installfest*]()
-* [ ❓ **How to Ask For Help** ]()
-* [ 📆 Course Calendar]()
-* [ 📹 Recorded Classroom Sessions]()
+* [ 🛜 *Installfest*](https://seir-learning-resources.notion.site/The-Installfest-Journey-5e0a6c98a9604023814ccdee21045dd2?pvs=4)
+* [ ❓ **How to Ask For Help** ](https://github.com/SEIR-1016-EC/How-to-ask-for-help)
+* [ 📆 Course Calendar - TBD ]()
+* [ 📹 Recorded Classroom Sessions](https://github.com/SEIR-1016-EC/SEI-1016-Recordings)
 <!-- * [Orientation Deck]() -->
 
 </td> 
 
 <td>
 
-* [ ☀️ Daily Schedule]()
-* [ 🤙 Culture and Expectations]()
-* [ 📸 Remote Expectations]()
-* [ © Plagiarism]()
-* [ ☎️ Team Communication]()
-* [ 💪 How to Succeed in a Bootcamp]()
-* [ 🚀 Tips and Tricks]()
-* [ 😰 Bootcamp Burnout]()
+* [ ☀️ Daily Schedule - TBD ]()
+* [ 🤙 Culture and Expectations - TBD ]()
+* [ 📸 Remote Expectations - TBD ]()
+* [ © Plagiarism - TBD]()
+* [ ☎️ Team Communication](https://github.com/SEIR-1016-EC/Team-Communications)
+* [ 💪 How to Succeed in a Bootcamp - TBD ]()
+* [ 🚀 Tips and Tricks -TBD ]()
+* [ 😰 Bootcamp Burnout -TBD ]()
 
 </td>
 </tr>
-<tr>
 
-<th colspan=2> <h2> Course Overview + Lesson Materials </h2> </th>
+<tr>
+    <th colspan=2>
+        <h2>Additional Resources </h2>
+    </th>
+    
 </tr>
+<tr>
 <td colspan=2>
+    
+* [Code Review Guidelines](https://github.com/SEIR-1016-EC/Student-Resources/tree/main/code_reviews)  
+* [Useful Commands](https://github.com/SEIR-1016-EC/Useful-Commands) 
+* [Keyboard Shortcuts](https://github.com/SEIR-1016-EC/Keyboard-Shortcuts) 
+* [Deployment Guides](https://github.com/SEIR-1016-EC/Student-Resources/tree/main/deployments) 
+* [Documentation && Cheatsheets](https://github.com/SEIR-1016-EC/Documentation-and-Cheatsheets/tree/main) 
+* [Computer Science Topics](https://github.com/SEIR-1016-EC/Student-Resources/tree/main/computer-science)
 
-* [☑ Unit 1]() - Fundamentals of Front End Development
-
-* [☑ Unit 2]() - Full-Stack Development
-
-* [☑ Unit 3]() - React Fundamentals
-
-* [☑ Unit 4]() - Python/Django
-</td>
-<tr>
+</td>  
 </tr>
 </table>
 
+## Instructional Team 
+
+### Have a question for an instructor or member of the team?
+
+| Role | Person | Slack | Support Role |
+| - | - | - | - |
+| Instructional Lead | Joshua Smith (he/him) |  @Joshua Smith | Lessons / Technical |
+| Senior Instructional Associate | Brian Krabec (he/him) |@Brian [he/him] | Frontline Support / Lessons |
+| TA/Office Hours | XXX | XXX | After Hours Support |
+| Outcomes Instructor | XXX | XXX  | Professional Development / Job Search |
+| Student Success Manager | XXX | XXX | Institutional Questions  |
+
 ## Course Curriculum Overview
 
-<details>
-    <summary>Click the arrow below to review week-by-week overview</summary>
   
 > The following is an overall schedule and is subject to change. 
 
@@ -128,43 +141,8 @@
   </tbody>
 </table>
 
-</details>
 
-<br>
-
-## Instructional Team 
-
-### Have a question for an instructor or member of the team?
-
-| Role | Person | Slack | Support Role |
-| - | - | - | - |
-| Instructional Lead | Joshua Smith (he/him) |  @Joshua Smith | Lessons / Technical |
-| Senior Instructional Associate | Brian Krabec (he/him) |@Brian [he/him] | Frontline Support / Lessons |
-| TA/Office Hours | XXX | XXX | After Hours Support |
-| Outcomes Instructor | XXX | XXX  | Professional Development / Job Search |
-| Student Success Manager | XXX | XXX | Institutional Questions  |
 
 <hr><br>
 
-## Resources
-* [Code Review Guidelines]()  
-* [Useful Commands]() 
-* [Keyboard Shortcuts]() 
-* [Deployment Guides]() 
-* [Documentation && Cheatsheets]() 
 
-## Special Topics Outline
-* [Daily Coding Challenges]()
-* [Computer Science]()
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
