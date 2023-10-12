@@ -20,7 +20,6 @@
 * [ 🖥️ Class Zoom Link](https://generalassembly.zoom.us/j/97984648850?pwd=NEhWNDU4VjFHdUJZREc5anBBaFdNQT09)<br>
 * [ 🛜 *Installfest*](https://seir-learning-resources.notion.site/The-Installfest-Journey-5e0a6c98a9604023814ccdee21045dd2?pvs=4)
 * [ ❓ **How to Ask For Help** ](https://github.com/SEIR-1016-EC/How-to-ask-for-help)
-* [ 📆 Course Calendar - TBD ]()
 * [ 📹 Recorded Classroom Sessions](https://github.com/SEIR-1016-EC/SEI-1016-Recordings)
 <!-- * [Orientation Deck]() -->
 
@@ -28,14 +27,14 @@
 
 <td>
 
-* [ ☀️ Daily Schedule - TBD ]()
-* [ 🤙 Culture and Expectations - TBD ]()
-* [ 📸 Remote Expectations - TBD ]()
-* [ © Plagiarism - TBD]()
+* [ ☀️ Daily Schedule](https://github.com/SEIR-1016-EC/Daily-Schedule)
+* [ 🤙 Culture and Expectations](https://github.com/SEIR-1016-EC/Culture-and-Expectations)
+* [ 📸 Remote Expectations](https://github.com/SEIR-1016-EC/Remote-Expectations)
+* [ © Plagiarism](https://github.com/SEIR-1016-EC/Plagiarism)
 * [ ☎️ Team Communication](https://github.com/SEIR-1016-EC/Team-Communications)
-* [ 💪 How to Succeed in a Bootcamp - TBD ]()
-* [ 🚀 Tips and Tricks -TBD ]()
-* [ 😰 Bootcamp Burnout -TBD ]()
+* [ 💪 How to Succeed in a Bootcamp](https://github.com/SEIR-1016-EC/How-To-Succeed)
+* [ 🚀 Tips and Tricks](https://github.com/SEIR-1016-EC/Tips-Tricks)
+* [ 😰 Bootcamp Burnout](https://github.com/SEIR-1016-EC/Burnout)
 
 </td>
 </tr>
@@ -68,9 +67,10 @@
 | - | - | - | - |
 | Instructional Lead | Joshua Smith (he/him) |  @Joshua Smith | Lessons / Technical |
 | Senior Instructional Associate | Brian Krabec (he/him) |@Brian [he/him] | Frontline Support / Lessons |
-| TA/Office Hours | XXX | XXX | After Hours Support |
-| Outcomes Instructor | XXX | XXX  | Professional Development / Job Search |
-| Student Success Manager | XXX | XXX | Institutional Questions  |
+| Instructional Associate | Ashley Sands (she/they) |  | Frontline Support / Lessons |
+| TA/Office Hours | Jan Horak (he/him | --- | After Hours Support |
+| Outcomes Instructor | Samantha Strom (she/her) | --- | Professional Development / Job Search |
+| Student Success Manager | Alyx Warner (she/they) | --- | Institutional Questions  |
 
 ## Course Curriculum Overview
 
