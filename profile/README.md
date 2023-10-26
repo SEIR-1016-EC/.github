@@ -17,7 +17,7 @@
 
 <td>
 
-* [ 🖥️ Class Zoom Link](https://generalassembly.zoom.us/j/97984648850?pwd=NEhWNDU4VjFHdUJZREc5anBBaFdNQT09)<br>
+* [ 🖥️ Class Zoom Link](https://generalassembly.zoom.us/j/94764048961?pwd=UHBlKy9hdzQxc1RGUHVuanVnVnlUUT09)<br>
 * [ 🛜 *Installfest*](https://seir-learning-resources.notion.site/The-Installfest-Journey-5e0a6c98a9604023814ccdee21045dd2?pvs=4)
 * [ ❓ **How to Ask For Help** ](https://github.com/SEIR-1016-EC/How-to-ask-for-help)
 * [ 📹 Recorded Classroom Sessions](https://github.com/SEIR-1016-EC/SEI-1016-Recordings)
