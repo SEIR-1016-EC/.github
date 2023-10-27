@@ -67,7 +67,7 @@
 | - | - | - | - |
 | Instructional Lead | Joshua Smith (he/him) |  @Joshua Smith | Lessons / Technical |
 | Senior Instructional Associate | Brian Krabec (he/him) |@Brian [he/him] | Frontline Support / Lessons |
-| Instructional Associate | Ashley Sands (she/they) | @Ashley Sands | Frontline Support / Lessons |
+| Senior Instructional Associate | Ashley Sands (she/they) | @Ashley Sands | Frontline Support / Lessons |
 | TA/Office Hours | Jan Horak (he/him) | @Jan Horak | After Hours Support |
 | Outcomes Instructor | Samantha Strom (she/her) | @Samantha Strom | Professional Development / Job Search |
 | Student Success Manager | Alyx Warner (she/they) | @Alyx Warner (she/they) - ATX  | Institutional Questions  |
